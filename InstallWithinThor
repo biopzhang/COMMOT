@@ -1,0 +1,4 @@
+pip install git+https://github.com/benedekrozemberczki/karateclub.git
+pip install POT
+pip install --no-deps git+https://github.com/biopzhang/COMMOT.git
+pip install libpysal
