@@ -1,2 +1,6 @@
 POT
 git+https://github.com/benedekrozemberczki/karateclub.git
+
+# Tested for R version 4.2.2
+rpy2==3.5.11
+anndata2ri==1.2
